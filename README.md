@@ -8,3 +8,6 @@
 #         2. It takes VIX as an input parameter for determination of Probabilities of Up / Down on Stock node.
 #         3. It creates charts on the paths of Stock_Options
 #                                                            Piruz Alemi Dec 11th, 2019
+
+Please make a note of a write up and presentation on same subject.
+                                                              Piruz Alemi Dec 16th, 2019
